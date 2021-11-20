@@ -1,4 +1,5 @@
-# Hi I'm Deepangshi Saha ![wave](https://user-images.githubusercontent.com/80335921/142718747-f617473f-5780-14cb-bcb3-a89dd7dc6281.gif)
+# Hi I'm Deepangshi Saha ![wave](https://user-images.githubusercontent.com/80335921/142719400-4d130b40-1c94-4307-b028-1bfb46002cd5.gif)
+
 
 - 🔭 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
 - 🌱 I’m currently learning Spring
