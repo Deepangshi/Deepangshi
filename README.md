@@ -1,3 +1,6 @@
+![computer-work](https://user-images.githubusercontent.com/80335921/142726562-952c929c-b273-4101-8de8-bf61edc0d34d.gif)
+
+
 # Hi 🤚 I'm Deepangshi Saha 
 
 
