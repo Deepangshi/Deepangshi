@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning about more tools and technologies.
 - 🤔 I’m looking for help with Senior Software Engineer.
 - 💬 Ask me about any tech related stuffs.
 - 😄 Pronouns: She/Her
