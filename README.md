@@ -1,4 +1,4 @@
-<img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif"/ height="70" width="90" class="center">
+<img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" height="70" width="90" class="center"/>
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> I'm Deepangshi
 - 👩‍💻 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
 - 🌱 I’m currently learning competitive programming basics.
