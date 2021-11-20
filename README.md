@@ -6,3 +6,5 @@
 - 💬 Ask me about any tech related stuffs.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I may have but still don't know.
+
+👩‍💻 Languages and Tools:
