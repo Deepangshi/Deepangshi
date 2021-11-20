@@ -1,5 +1,5 @@
 ![computer-work](https://user-images.githubusercontent.com/80335921/142726562-952c929c-b273-4101-8de8-bf61edc0d34d.gif)
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40"/> I'm Deepangshi
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> I'm Deepangshi
 - 👩‍💻 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
 - 🌱 I’m currently learning competitive programming basics.
 - 🤔 I’m looking for help with Senior Software Engineer.
