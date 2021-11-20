@@ -1,4 +1,4 @@
-# Hi I'm Deepangshi Saha ![wave](https://user-images.githubusercontent.com/80335921/142719400-4d130b40-1c94-4307-b028-1bfb46002cd5.gif)
+# Hi 🤚 I'm Deepangshi Saha 
 
 
 - 🔭 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
