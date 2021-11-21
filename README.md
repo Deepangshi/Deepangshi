@@ -13,11 +13,11 @@
 
 ## Language and Tools:
 
-[<img align ="left " width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][c]
-[<img align ="left " width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/c%2B%2B.png" />]
-[<img align ="left " width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/java.png" />][java]
-[<img align ="left " width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/s9-3.png" />][spring]
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align ="left " alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][c]
+[<img align ="left " alt="c++" width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/c%2B%2B.png" />][c++]
+[<img align ="left " alt="Java" width="35px" src="https://github.com/Deepangshi/Deepangshi/blob/main/java.png" />][java]
+[<img align ="left " alt="Spring" width="35px" src="https://github.com/Deepangshi/Deepangshi/blob/main/s9-3.png" />][spring]
+[<img align ="left " alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -33,13 +33,14 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/deepangshi-saha-258942203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNWyvov0TQWChNgqvKXf7yg%3D%3D
-[c]: 
+[c]: https://www.javatpoint.com/c-programming-language-tutorial
+[c++]: https://www.javatpoint.com/cpp-tutorial
 [java]: https://www.javatpoint.com/java-tutorial
 [spring]: https://spring.io/projects/spring-framework
-[python]: 
-[javascript]: 
+[python]: https://www.python.org/
+[javascript]: https://www.javatpoint.com/javascript-tutorial
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]:
+[css]: https://www.javatpoint.com/css-tutorial
 [bootstrap]: https://getbootstrap.com/
 [vscode]: https://code.visualstudio.com/
 [mysql]: 
