@@ -28,6 +28,8 @@
 [<img align ="left " alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align ="left " alt="Figma" width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/figma.png" />][figma]
 
+<br />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepangshi&theme=radical)
 
 <br />
 <br />
