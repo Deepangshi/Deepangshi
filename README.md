@@ -36,18 +36,19 @@
 
 <br/>
 
-<p align="center">
-<a href="https://github.com/deepangshi/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deepangshi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepangshi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-</p>
+## Stats:
+
+<a href="https://github-readme-stats.vercel.app"> <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=deepangshi&theme=tokyonight&include_all_commits=true&show_icons=true&custom_title=GitHub+Stats"/>
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com"> <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=deepangshi&theme=tokyonight"/>
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepangshi&layout=compact&theme=tokyonight)](https://github.com/deepangshi/github-readme-stats)
 
 
-## Github Stats:
 
-[![Deepangshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepangshi&show_icons=true&theme=github_dark)](https://github.com/deepangshi/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepangshi&layout=compact&theme=github_dark)](https://github.com/deepangshi/github-readme-stats)
+<a href="https://github.com/ryo-ma/github-profile-trophy"> <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=deepangshi&theme=tokyonight&row=1"/>
+</a>
 
 
 <br/>
