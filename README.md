@@ -18,15 +18,15 @@
 [<img align ="left " alt="Java" width="35px" src="https://github.com/Deepangshi/Deepangshi/blob/main/java.png" />][java]
 [<img align ="left " alt="Spring" width="35px" src="https://github.com/Deepangshi/Deepangshi/blob/main/s9-3.png" />][spring]
 [<img align ="left " alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align ="left " alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align ="left " alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align ="left " alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align ="left " alt="Bootstrap" width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][bootstrap] 
 [<img align ="left " alt="Visual Studio Code" width="33px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode] 
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align ="left " width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/figma.png" />][figma] 
+[<img align ="left " alt="MySQL" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align ="left " alt="SQL" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
+[<img align ="left " alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align ="left " alt="Figma" width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/figma.png" />][figma] 
 
 
 <br />
@@ -43,10 +43,10 @@
 [css]: https://www.javatpoint.com/css-tutorial
 [bootstrap]: https://getbootstrap.com/
 [vscode]: https://code.visualstudio.com/
-[mysql]: 
-[sql]: 
-[git]: 
-[figma]: 
+[mysql]: https://www.mysql.com/
+[sql]: https://www.javatpoint.com/sql-tutorial
+[git]: https://git-scm.com/
+[figma]: https://www.figma.com/
 
 
 
