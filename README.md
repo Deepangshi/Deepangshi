@@ -26,11 +26,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
 <a href="https://www.javatpoint.com/css-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
-<a href="https://www.javatpoint.com/sql-tutorial" target="_blank"> <img width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></a>
+<a href="https://www.javatpoint.com/sql-tutorial" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/database.png"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
 </p>
 
 <br/>
@@ -50,10 +51,16 @@
 
 
 <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
 <br/>
 <br/>
 
 
+## Views 
+<a href="https://github.com/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=deepangshi"></a>
 
-
-
+## Followers
+<a href="https://github.com/deepangshi?tab=followers"> <img src="https://img.shields.io/github/followers/deepangshi?label=Followers&style=social" alt="GitHub Badge"></a>
