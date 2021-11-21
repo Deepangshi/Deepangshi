@@ -1,8 +1,10 @@
 <a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="300"/></a>
 
-# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
-# I'm Deepangshi Saha a Software Developer
-
+<h1> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
+  
+  </br>
+  
+I'm Deepangshi Saha a Software Developer </h1>
 
 ## About Me:
 
