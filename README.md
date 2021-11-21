@@ -1,4 +1,4 @@
-<a href="#" align="center"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" height="50px"/></a>
+<a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="200"/></a>
 
 <h1> Hey! I'm Deepangshi Saha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> </h1>
 
