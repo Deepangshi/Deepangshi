@@ -29,7 +29,7 @@
 [<img align ="left " alt="Figma" width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/figma.png" />][figma]
 
 <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepangshi&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api? username=Deepangshi&theme=radical)
 
 <br />
 <br />
