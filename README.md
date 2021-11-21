@@ -16,18 +16,18 @@
 
 ## Language and Tools:
 <p align="left"> 
-<a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank"> <img width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/> </a> 
-<a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"> <img width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/c%2B%2B.png"/> </a>
-<a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img width="35px" src="https://github.com/Deepangshi/Deepangshi/blob/main/java.png"/> </a>
+<a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank"> <img width="50px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/> </a> 
+<a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"> <img width="45px" src="https://github.com/Deepangshi/Deepangshi/blob/main/c%2B%2B.png"/> </a>
+<a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img width="50px" src="https://github.com/Deepangshi/Deepangshi/blob/main/java.png"/> </a>
 <a href="https://spring.io/projects/spring-framework" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>   
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 <a href="https://www.javatpoint.com/javascript-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://www.javatpoint.com/css-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img width="33px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img width="50px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> </a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<a href="https://www.javatpoint.com/sql-tutorial" target="_blank"> <img width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> </a>
+<a href="https://www.javatpoint.com/sql-tutorial" target="_blank"> <img width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/figma.png"/> </a>
 </p>
