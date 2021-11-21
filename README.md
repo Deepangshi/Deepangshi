@@ -28,6 +28,8 @@
 [<img align ="left " alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align ="left " alt="Figma" width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/figma.png" />][figma]
 
+[![Deepangshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepangshi)](https://github.com/deepangshi/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepangshi&layout=compact)](https://github.com/deepangshi/github-readme-stats)
 
