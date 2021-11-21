@@ -1,6 +1,9 @@
 <a href="#"><img width="60%" height="auto" src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" height="50px"/></a>
 
 <h1 align="center"> Hey! I'm Deepangshi Saha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> </h1>
+
+## About Me:
+
 - 👩‍💻 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
 - 🌱 I’m currently learning competitive programming basics.
 - 🤔 I’m looking for help with other Software Engineer.
