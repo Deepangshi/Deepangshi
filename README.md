@@ -32,6 +32,8 @@
 
 [linkedin]: https://www.linkedin.com/in/deepangshi-saha-258942203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNWyvov0TQWChNgqvKXf7yg%3D%3D
 [c]: 
+[C++]:
+
 [java]: https://www.javatpoint.com/java-tutorial
 [spring]: https://spring.io/projects/spring-framework
 [python]: 
