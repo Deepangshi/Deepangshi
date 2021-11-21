@@ -1,4 +1,4 @@
-![computer-work](https://user-images.githubusercontent.com/80335921/142736963-a76c6e3e-decb-48e8-b08e-318f7e01b5e7.gif)
+<a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="100px"/></a>
 
 ## Hey! I'm Deepangshi Saha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
 - 👩‍💻 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
