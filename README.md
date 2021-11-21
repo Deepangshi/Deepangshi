@@ -12,7 +12,8 @@
 <br />
 
 ## Language and Tools:
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][c]
+
+[<img align ="left " width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][c]
 [<img align ="left " width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/c%2B%2B.png" />][c++] 
 [<img align ="left " width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/java.png" />][java]
 [<img align ="left " width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/s9-3.png" />][spring]
@@ -21,11 +22,14 @@
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][bootstrap]
-[<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
+[<img align ="left " alt="Visual Studio Code" width="33px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align ="left " width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align ="left " width="33px" src="https://github.com/Deepangshi/Deepangshi/blob/main/figma.png" />][figma] 
+
 
 <br />
 <br />
