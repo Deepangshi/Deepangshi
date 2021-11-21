@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" height="70px"/></a>
+<a href="#"><img width="50%" height="auto" src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" height="70px"/></a>
 
 ## Hey! I'm Deepangshi Saha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
 - 👩‍💻 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
