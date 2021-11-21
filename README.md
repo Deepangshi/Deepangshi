@@ -14,9 +14,7 @@
 <a href="https://www.linkedin.com/in/deepangshi-saha-258942203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNWyvov0TQWChNgqvKXf7yg%3D%3D" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </p>
 
-
-<br />
-
+<br/>
 
 ## Language and Tools:
 <p align="left"> 
@@ -42,8 +40,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepangshi&layout=compact&theme=github_dark)](https://github.com/deepangshi/github-readme-stats)
 
 
-<br />
-<br />
+<br/>
+<br/>
 
 
 
