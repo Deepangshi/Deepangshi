@@ -52,15 +52,9 @@ I'm Deepangshi Saha a Software Developer </h1>
 
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-
 ## Views 
-<a href="https://github.com/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=deepangshi"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepangshi&style=plastic"> </p>
+
 
 ## Followers
-<a href="https://github.com/deepangshi?tab=followers"> <img src="https://img.shields.io/github/followers/deepangshi?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="left"> <a href="https://github.com/deepangshi?tab=followers"> <img src="https://img.shields.io/github/followers/deepangshi?label=Followers&style=social" alt="GitHub Badge"></a> </p>
