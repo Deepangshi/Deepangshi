@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="300"/></a>
+<p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="300"/></a></p>
 
 <h1> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
   
@@ -44,11 +44,12 @@ I'm Deepangshi Saha a Software Developer </h1>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=deepangshi&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Deepangshi's github stats" /> </p>
 
-
-<p align="left"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deepangshi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepangshi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /> </p>
-
-
 <p align="left"> <a href="https://github.com/Deepangshi?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepangshi&layout=compact&theme=github_dark&hide_border=true" /></a> </p>
+
+<p align="center"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deepangshi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepangshi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /> </p>
+
+
+
 
 
 <br/>
@@ -59,4 +60,4 @@ I'm Deepangshi Saha a Software Developer </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepangshi&style=plastic"> </p>
 
 
-<p align="left"> <a href="https://github.com/deepangshi?tab=followers"> <img src="https://img.shields.io/github/followers/deepangshi?label=Followers&style=social" alt="GitHub Badge"></a> </p>
+
