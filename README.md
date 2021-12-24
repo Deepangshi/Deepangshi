@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="300"/></a></p>
+<p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="150"/></a></p>
 
 <h2> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
   
