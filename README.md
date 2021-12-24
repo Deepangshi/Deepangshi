@@ -1,41 +1,32 @@
 <p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="300"/></a></p>
 
-<h1> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
+<h2> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
   
   </br>
   
-I'm Deepangshi Saha a Software Developer </h1>
+I'm Deepangshi Saha a Software Developer </h2>
 
 ## About Me:
 
-- 👩‍💻 I’m currently working on ENTERPRISE LEVEL APPLICATION DEVELOPMENT.
-- 🌱 I’m currently learning competitive programming basics.
-- 🤔 I’m looking for help with other Software Engineer.
-- 🥅 Goals: Contribute more to Open Source projects
+- 👩‍💻 I’m currently working as application developer.
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/deepangshi-saha-258942203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNWyvov0TQWChNgqvKXf7yg%3D%3D" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/deepangshi-saha-258942203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNWyvov0TQWChNgqvKXf7yg%3D%3D" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
 </p>
 
 
 ## Language and Tools:
 <p align="left"> 
-<a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
-<a href="https://www.javatpoint.com/cpp-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-<a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
-<a href="https://spring.io/projects/spring-framework" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a>   
-<a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<a href="https://www.javatpoint.com/javascript-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
-<a href="https://www.javatpoint.com/css-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
-<a href="https://www.javatpoint.com/sql-tutorial" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/database.png"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png"/></a>
+<a href="https://www.javatpoint.com/java-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="40"/></a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40"/></a> 
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40"/></a>
+<a href="https://www.javatpoint.com/css-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/></a>
+<a href="https://www.javatpoint.com/javascript-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40"/></a>
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/></a>
 </p>
 
 <br/>
