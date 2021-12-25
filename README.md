@@ -1,10 +1,4 @@
-<p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/computer-work.gif" width="150"/></a></p>
-
-<h2> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30"/> 
-  
-  </br>
-  
-I'm Deepangshi Saha a Software Developer </h2>
+<p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/hey%20(1).gif" width="320"/></a></p>
 
 ## About Me:
 
@@ -28,17 +22,6 @@ I'm Deepangshi Saha a Software Developer </h2>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/></a>
 </p>
-
-<br/>
-
-## Stats:
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=deepangshi&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Deepangshi's github stats" /> </p>
-
-<p align="left"> <a href="https://github.com/Deepangshi?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepangshi&layout=compact&theme=github_dark&hide_border=true" /></a> </p>
-
-<p align="center"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deepangshi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepangshi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /> </p>
-
 
 
 
