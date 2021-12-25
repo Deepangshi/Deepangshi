@@ -1,5 +1,8 @@
 <p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/hey%20(1).gif" width="320"/></a></p>
 
+
+I'm self motivated IT graduate with in-depth knowledge of programming languages and development tools.
+
 ## About Me:
 
 - 👩‍💻 I’m currently working as application developer.
