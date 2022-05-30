@@ -16,7 +16,6 @@
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/Deepangshi/Deepangshi/blob/main/javascript_logo.png" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/></a>
 
 
