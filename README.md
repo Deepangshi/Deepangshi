@@ -17,6 +17,9 @@
 <a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png" width="40"/></a>  
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/Deepangshi/Deepangshi/blob/main/react.js.gif" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/jira" width="34"/></a>
+
+  
 
 
 
