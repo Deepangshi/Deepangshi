@@ -1,7 +1,7 @@
 <p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/ezgif-1-8e97cdf3d2.gif" width="320"/></a></p>
 
 <h2> 
-<a href="https://deepangshi-portfolio.netlify.app/"> Portfolio </a>
+<a href="https://deepangshi-dev.netlify.app"> Portfolio </a>
 </h2>
 
 
@@ -13,16 +13,16 @@
 
 ## Language and Tools:
 <p align="left"> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/></a>  
+<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/Deepangshi/Deepangshi/blob/main/react.js.gif" width="40"/></a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40"/></a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/></a>
 <a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png" width="40"/></a>  
-<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/Deepangshi/Deepangshi/blob/main/react.js.gif" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/jira" width="34"/></a>
-
-  
+<br />
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepangshi&layout=donut&theme=tokyonight)](https://github.com/Deepangshi/github-readme-stats)
 
 
 
