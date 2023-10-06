@@ -2,13 +2,7 @@
 
 
 
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/deepangshi-saha-258942203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNWyvov0TQWChNgqvKXf7yg%3D%3D" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <br/>
-Scan to view portfolio <br/>
-<img src="https://github.com/Deepangshi/Deepangshi/blob/main/zxweuyska.png" width="45"/>
-</p>
+
 
 
 ## Language and Tools:
@@ -29,6 +23,16 @@ Scan to view portfolio <br/>
 </p>
 
 
+
+
+
+## Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/deepangshi-saha-258942203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNWyvov0TQWChNgqvKXf7yg%3D%3D" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <br/>
+Scan to view portfolio <br/>
+<img src="https://github.com/Deepangshi/Deepangshi/blob/main/zxweuyska.png" width="45"/>
+</p>
 
 
 <br/>
