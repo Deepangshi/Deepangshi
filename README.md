@@ -1,8 +1,7 @@
-<a href="https://github.com/Deepangshi" align="left"> <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=deepangshi&style=plastic"> </a>
 
 <h1 align="left">Hey I'm <a href="https://www.linkedin.com/in/deepangshi-saha/">Deepangshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>      <img align="right" src="https://media.giphy.com/media/k7AEaKLU0maVvEpgPG/giphy.gif" width="200" height="200"/> -Developer </h1>
 
-## <h2 align="left">🌐 Connect with me</h2>
+## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/deepangshi-saha/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"  width="100" height="25" /></a>
    <a href="https://deepangshi-dev.netlify.app/"><img title="Portfolio" src="https://img.shields.io/badge/Portfolio-f29318?style=for-the-badge&logo=React&logoColor=white&style=plastic" width="95" height="25" /></a>
@@ -10,9 +9,9 @@
 </p>
 
 
-## Language and Tools:
+## Language and Tools
 <p align="left"> 
-   <a href="#">
+<!--    <a href="#">
 <img alt="C#" src="https://img.shields.io/badge/C%20Sharp-800080?style=for-the-badge&logo=CSharp&logoColor=white&style=plastic" width="95" height="25" />
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-48494B?&style=for-the-badge&logo=mysql&logoColor=white%22&style=plastic" width="95" height="25"/>
 <img alt="React.js" src="https://img.shields.io/badge/React.js-61dbfb?style=for-the-badge&logo=React&logoColor=323330&style=plastic"  width="95" height="25" />
@@ -21,8 +20,14 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=plastic"  width="70" height="25"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=Python&logoColor=4B8BBE&style=plastic"  width="80" height="25"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white&style=plastic" width="50" height="25"/>
-</a>
+</a> -->
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,react,js,html,css,python,git"> </a> </p>
 </p> 
+
+
+<br/>
+
+<a href="https://github.com/Deepangshi" align="left"> <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=deepangshi&style=plastic"> </a>
 
 
 <br />
