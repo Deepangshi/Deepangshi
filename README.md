@@ -1,5 +1,8 @@
 
+
 <h1 align="left">Hey I'm <a href="https://www.linkedin.com/in/deepangshi-saha/">Deepangshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>      <img align="right" src="https://media.giphy.com/media/k7AEaKLU0maVvEpgPG/giphy.gif" width="200" height="200"/> -Developer </h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=Developing+web+applications%2C;contributed+in+react.js%2C+python%2C;currently+focusing+on+developing;asp.net-+c%23+applications" alt="Typing SVG" /></a>
 
 ## Connect with me
 <p align="left">
