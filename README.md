@@ -1,20 +1,36 @@
-<p align="center"><a href="#"><img src="https://github.com/Deepangshi/Deepangshi/blob/main/ezgif-1-8e97cdf3d2.gif" width="320"/></a></p>
+<a href="https://github.com/Deepangshi" align="left"> <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=deepangshi&style=plastic"> </a>
 
+<h1 align="left">Hey I'm <a href="https://www.linkedin.com/in/deepangshi-saha/">Deepangshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>      <img align="right" src="https://media.giphy.com/media/k7AEaKLU0maVvEpgPG/giphy.gif" width="200" height="200"/> -Developer </h1>
 
-
-
+## <h2 align="left">🌐 Connect with me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/deepangshi-saha/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"  width="100" height="25" /></a>
+   <a href="https://deepangshi-dev.netlify.app/"><img title="Portfolio" src="https://img.shields.io/badge/Portfolio-f29318?style=for-the-badge&logo=React&logoColor=white&style=plastic" width="95" height="25" /></a>
+  <a href="https://github.com/Deepangshi"><img title="Github" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white&style=plastic" width="90" height="25" /></a>
+</p>
 
 
 ## Language and Tools:
 <p align="left"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/Deepangshi/Deepangshi/blob/main/react.js.gif" width="40"/></a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="40"/></a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/></a>
-<a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png" width="40"/></a>  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/></a>
+   <a href="#">
+<img alt="C#" src="https://img.shields.io/badge/C%20Sharp-800080?style=for-the-badge&logo=CSharp&logoColor=white&style=plastic" width="95" height="25" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-48494B?&style=for-the-badge&logo=mysql&logoColor=white%22&style=plastic" width="95" height="25"/>
+<img alt="React.js" src="https://img.shields.io/badge/React.js-61dbfb?style=for-the-badge&logo=React&logoColor=323330&style=plastic"  width="95" height="25" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&l&logoColor=%23F7DF1E%22&style=plastic"  width="100" height="25"/>  
+<img alt="HTML5" src="https://img.shields.io/badge/HTML%205-e34c26?style=for-the-badge&logo=html5&logoColor=white&style=plastic"  width="73" height="25"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=plastic"  width="70" height="25"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=Python&logoColor=4B8BBE&style=plastic"  width="80" height="25"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white&style=plastic" width="50" height="25"/>
+</a>
+</p> 
+
+
 <br />
 
+<p align="left"> 
 
+
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepangshi&layout=donut&theme=tokyonight)](https://github.com/Deepangshi/github-readme-stats)
 
 
@@ -26,13 +42,7 @@
 
 
 
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/deepangshi-saha-258942203?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNWyvov0TQWChNgqvKXf7yg%3D%3D" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
-  <br/>
-Scan to view portfolio <br/>
-<img src="https://github.com/Deepangshi/Deepangshi/blob/main/zxweuyska.png" width="45"/>
-</p>
+
 
 
 <br/>
@@ -40,7 +50,6 @@ Scan to view portfolio <br/>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepangshi&style=plastic"> </p>
 
 
 
