@@ -12,7 +12,7 @@
 </p>
 
 
-## Language and Tools
+## Language and Tools Used
 <p align="left"> 
 <!--    <a href="#">
 <img alt="C#" src="https://img.shields.io/badge/C%20Sharp-800080?style=for-the-badge&logo=CSharp&logoColor=white&style=plastic" width="95" height="25" />
@@ -24,7 +24,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=Python&logoColor=4B8BBE&style=plastic"  width="80" height="25"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white&style=plastic" width="50" height="25"/>
 </a> -->
-<p align="left"> <a href="https://github.com/Deepangshi"><img title="Tools Used" src="https://skillicons.dev/icons?i=cs,dotnet,mysql,react,js,html,css,python,git"> </a> </p>
+<p align="left"> <a href="https://github.com/Deepangshi"><img title="Tools Used" src="https://skillicons.dev/icons?i=cs,dotnet,mysql,react,js,bootstrap,materialui,html,css,python,git"> </a> </p>
 </p> 
 
 
