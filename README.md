@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/deepangshi-saha/" target="_blank" rel="noreferrer" ><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"  width="100" height="25" /></a>
    <a href="https://deepangshi-dev.netlify.app/" target="_blank" rel="noreferrer"><img title="Portfolio" src="https://img.shields.io/badge/Portfolio-f29318?style=for-the-badge&logo=React&logoColor=white&style=plastic" width="95" height="25" /></a>
   <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Github" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white&style=plastic" width="90" height="25" /></a>
-  <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="X" src="https://img.shields.io/badge/twitter-14171A?style=for-the-badge&logo=x&logoColor=white&style=plastic" width="90" height="25" /></a>
+  <a href="https://twitter.com/Deepangshi" target="_blank" rel="noreferrer"><img title="X" src="https://img.shields.io/badge/twitter-14171A?style=for-the-badge&logo=x&logoColor=white&style=plastic" width="90" height="25" /></a>
 </p>
 
 
