@@ -2,13 +2,14 @@
 
 <h1 align="left">Hey I'm <a href="https://www.linkedin.com/in/deepangshi-saha/">Deepangshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>      <img align="right" src="https://media.giphy.com/media/k7AEaKLU0maVvEpgPG/giphy.gif" width="200" height="200"/> -Developer </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developing+web+applications%2C;contributed+in+react.js%2C+python%2C;currently+focusing+on+developing;asp.net-+c%23+applications" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developing+web+applications%2C;contributed+in+.NET+CORE%2C+Backend%2C;currently+focusing+on+developing;asp.net-+c%23+applications" alt="Typing SVG" /></a>
 
 ## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/deepangshi-saha/" target="_blank" rel="noreferrer" ><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"  width="100" height="25" /></a>
    <a href="https://deepangshi-dev.netlify.app/" target="_blank" rel="noreferrer"><img title="Portfolio" src="https://img.shields.io/badge/Portfolio-f29318?style=for-the-badge&logo=React&logoColor=white&style=plastic" width="95" height="25" /></a>
   <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Github" src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white&style=plastic" width="90" height="25" /></a>
+  <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="X" src="https://img.shields.io/badge/twitter-14171A?style=for-the-badge&logo=x&logoColor=white&style=plastic" width="90" height="25" /></a>
 </p>
 
 
@@ -24,7 +25,7 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=Python&logoColor=4B8BBE&style=plastic"  width="80" height="25"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white&style=plastic" width="50" height="25"/>
 </a> -->
-<p align="left"> <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Tools Used" src="https://skillicons.dev/icons?i=cs,dotnet,mysql,react,js,bootstrap,materialui,html,css,python,git"> </a> </p>
+<p align="left"> <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Tools Used" src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,materialui,html,css,python,git"> </a> </p>
 </p> 
 
 
