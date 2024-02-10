@@ -21,10 +21,9 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&l&logoColor=%23F7DF1E%22&style=plastic"  width="100" height="25"/>  
 <img alt="HTML5" src="https://img.shields.io/badge/HTML%205-e34c26?style=for-the-badge&logo=html5&logoColor=white&style=plastic"  width="73" height="25"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&style=plastic"  width="70" height="25"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-646464?style=for-the-badge&logo=Python&logoColor=4B8BBE&style=plastic"  width="80" height="25"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=Git&logoColor=white&style=plastic" width="50" height="25"/>
 </a> -->
-<p align="left"> <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Tools Used" src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,materialui,html,css,python,git"> </a> </p>
+<p align="left"> <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Tools Used" src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,materialui,html,css,git"> </a> </p>
 </p>
 
 <br/>
