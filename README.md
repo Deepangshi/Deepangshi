@@ -1,4 +1,5 @@
-<h1 align="left">Hey I'm <a href="https://www.linkedin.com/in/deepangshi-saha/">Deepangshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>      <img align="right" src="https://media.giphy.com/media/k7AEaKLU0maVvEpgPG/giphy.gif" width="200" height="200"/> -Developer </h1>
+<h1 align="left">Hey I'm <a href="https://www.linkedin.com/in/deepangshi-saha/">Deepangshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>      
+<a href="https://www.buymeacoffee.com/thedsdev"> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybWJmMHB0ZzZ6dTlvazA0eTR2YXdoeGtxd3BoYnAyZ3p4NnZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/513lZvPf6khjIQFibF/giphy.gif" width="200" height="200"/></a> -Developer </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developing+web+applications%2C;contributed+in+.NET+CORE%2C+Backend%2C;currently+focusing+on+developing;asp.net-+c%23+applications" alt="Typing SVG" /></a>
 
