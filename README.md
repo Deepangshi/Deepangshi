@@ -1,7 +1,7 @@
-<h1 align="left">Hey I'm <a href="https://www.linkedin.com/in/deepangshi-saha/">Deepangshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>      
-<a href="https://www.buymeacoffee.com/thedsdev"> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybWJmMHB0ZzZ6dTlvazA0eTR2YXdoeGtxd3BoYnAyZ3p4NnZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/513lZvPf6khjIQFibF/giphy.gif" width="200" height="200"/></a> -Developer </h1>
+<h1 align="left">Hey I'm <a title="Click me" href="https://www.linkedin.com/in/deepangshi-saha/">Deepangshi</a> <img title="Hey!" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>      
+<a href="https://www.buymeacoffee.com/thedsdev"> <img align="right" title="☕︎" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEybWJmMHB0ZzZ6dTlvazA0eTR2YXdoeGtxd3BoYnAyZ3p4NnZyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/513lZvPf6khjIQFibF/giphy.gif" width="200" height="200"/></a> -Developer </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developing+applications%2C;contributed+in+.NET,+React.js%2C;currently+focusing+on+developing;asp.net-+c%23+applications" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img title="<>Thank you for coming by, hope you're doing well.</>" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developing+applications%2C;contributed+in+.NET,+React.js%2C;currently+focusing+on+developing;asp.net-+c%23+applications" alt="Typing SVG" /></a>
 
 ## Connect with me
 
@@ -12,11 +12,17 @@
   <a href="https://twitter.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Follow on X" src="https://img.shields.io/badge/twitter-14171A?style=for-the-badge&logo=x&logoColor=white&style=plastic" width="90" height="25" /></a>
 </p>
 
-## Language and tools used
+## Language and tools I have used
 
 <p align="left"> 
-
-<p align="left"> <a href="https://github.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Tools Used" src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,materialui,html,css,git"> </a> </p>
+  <a href="https://www.javatpoint.com/c-sharp-tutorial" target="_blank" rel="noreferrer"><img title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/postgresql/index.php" target="_blank" rel="noreferrer"><img title="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer"><img title="react.js" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVhY2M4dWNna2Flb2h0cXRuYWVmbzdheWxzeWJhM2szdzUyazA4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FH2JsZjho46UFP391i/giphy.gif" alt="reactjs" width="50" height="50"/></a>
+  <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"><img title="materialui" src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img title="HTML5" src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img title="CSS3" src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="git" src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/></a>
 </p>
 
 <br/>
@@ -27,7 +33,7 @@
 
 <p align="left">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepangshi&layout=donut&theme=tokyonight)](https://github.com/Deepangshi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepangshi&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/Deepangshi/)
 
 </p>
 
