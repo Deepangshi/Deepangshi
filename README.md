@@ -15,14 +15,14 @@
 ## Language and tools I have used
 
 <p align="left"> 
-  <a href="https://www.javatpoint.com/c-sharp-tutorial" target="_blank" rel="noreferrer"><img title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/postgresql/index.php" target="_blank" rel="noreferrer"><img title="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer"><img title="react.js" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVhY2M4dWNna2Flb2h0cXRuYWVmbzdheWxzeWJhM2szdzUyazA4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FH2JsZjho46UFP391i/giphy.gif" alt="reactjs" width="50" height="50"/></a>
-  <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"><img title="materialui" src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img title="HTML5" src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img title="CSS3" src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="git" src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/></a>
+  <a href="https://www.javatpoint.com/c-sharp-tutorial" target="_blank" rel="noreferrer"><img title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/postgresql/index.php" target="_blank" rel="noreferrer"><img title="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer"><img title="react.js" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVhY2M4dWNna2Flb2h0cXRuYWVmbzdheWxzeWJhM2szdzUyazA4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FH2JsZjho46UFP391i/giphy.gif" alt="reactjs" width="40" height="40"/></a>
+  <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"><img title="materialui" src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img title="HTML5" src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img title="CSS3" src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="git" src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
 </p>
 
 <br/>
