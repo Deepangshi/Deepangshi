@@ -6,23 +6,23 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/deepangshi-saha/" target="_blank" rel="noreferrer" ><img title="Let's Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"  width="100" height="25" /></a>
-   <a href="https://deepangshi-dev.netlify.app/" target="_blank" rel="noreferrer"><img title="Check on my Portfolio" src="https://img.shields.io/badge/Portfolio-d4af37?style=for-the-badge&logo=React&logoColor=white&style=plastic" width="95" height="25" /></a>
-  <a href="https://dev.to/thedsdev" target="_blank" rel="noreferrer"><img title="Let's learn together on DEV Community"  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&style=plastic" width="90" height="25" /></a>
-  <a href="https://twitter.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Follow on X" src="https://img.shields.io/badge/twitter-14171A?style=for-the-badge&logo=x&logoColor=white&style=plastic" width="90" height="25" /></a>
+  <a href="https://www.linkedin.com/in/deepangshi-saha/" target="_blank" rel="noreferrer" ><img title="Let's Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=plastic"  width="100" height="25" /></a>
+   <a href="https://deepangshi-dev.netlify.app/" target="_blank" rel="noreferrer"><img title="Check on my Portfolio" src="https://img.shields.io/badge/Portfolio-%23FFD700.svg?style=plastic&logoColor=white" width="95" height="25" /></a>
+  <a href="https://twitter.com/Deepangshi" target="_blank" rel="noreferrer"><img title="Follow on X" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=plastic" width="50" height="25" /></a>
 </p>
 
-## Language and tools I have used
+## Language and Tools Used
 
 <p align="left"> 
-  <a href="https://www.javatpoint.com/c-sharp-tutorial" target="_blank" rel="noreferrer"><img title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img title=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/postgresql/index.php" target="_blank" rel="noreferrer"><img title="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer"><img title="react.js" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVhY2M4dWNna2Flb2h0cXRuYWVmbzdheWxzeWJhM2szdzUyazA4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FH2JsZjho46UFP391i/giphy.gif" alt="reactjs" width="40" height="40"/></a>
-  <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noreferrer"><img title="materialui" src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img title="HTML5" src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img title="CSS3" src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="git" src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img title="AWS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noreferrer"><img title="react.js" src="https://media.giphy.com/media/kNp3dJxyZAJqCGheEw/giphy.gif" alt="reactjs" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer"><img title="SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/></a>
+  <a href="https://www.atlassian.com/git/tutorials" target="_blank" rel="noreferrer"><img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
 <br/>
@@ -38,8 +38,6 @@
 </p>
 
 <br/>
-
-
 
 <details> <summary title="Click me"><b>Click to know about me ◀</b></summary>
  🌐 My journey into the mesmerizing world of software development started somewhat innocently during my days as a CS student. It was a simple curiosity—an urge to understand websites and applications—that drew me in.
