@@ -40,7 +40,7 @@
 <br/>
 
 <details> <summary title="Click me"><b>Click to know about me ◀</b></summary>
- 🌐 My journey into the mesmerizing world of software development started somewhat innocently during my days as a CS student. It was a simple curiosity—an urge to understand websites and applications—that drew me in.
+ 🌐 My journey into the mesmerizing world of software development started somewhat innocently during my days as a CS student. It was a simple curiosity, an urge to understand websites and applications, that drew me in.
 <br/> 💻 As I navigated through this new, exciting world, my academic projects became my playground, allowing me to experiment, learn, and grow. My curiosity knew no bounds, and with each line of code, I felt more empowered to create and innovate.
 <br/> 🛠️ The real turning point came when I got the opportunity to put my skills to the test in the professional arena. Working hands-on with technologies like .NET and React.js, I was able to turn my theoretical knowledge into practical expertise. These experiences not only honed my technical abilities but also taught me the importance of collaboration, innovation, and continuous learning in the fast-paced tech industry.
 <br/> 💡 Today, I stand at a thrilling juncture in my journey, armed with a blend of academic knowledge and real-world tech experience, eager to tackle new challenges and contribute to the ever-evolving field of software development. <br/>#happycoding🚀
